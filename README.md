@@ -1,0 +1,1 @@
+For assignment, see file in repository root *Light Shelf and Electrical Component Optimization.pdf*
