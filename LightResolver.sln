@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34003.232
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LightResolver.API", "LightResolver.API.csproj", "{E102DD0D-D3C1-4688-9886-27E8C3FC3B07}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LightResolver.API", "LightResolverAPI\LightResolver.API.csproj", "{E102DD0D-D3C1-4688-9886-27E8C3FC3B07}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LightResolver.Tests", "..\LightResolverTests\LightResolver.Tests.csproj", "{D65BC621-F59F-4D48-9F34-6E3C40D06A17}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LightResolver.Tests", "LightResolverTests\LightResolver.Tests.csproj", "{D65BC621-F59F-4D48-9F34-6E3C40D06A17}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LightResolver.Logic", "..\LightResolverLogic\LightResolver.Logic.csproj", "{75EB8BD4-964E-4749-A89E-D2277F9823AB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LightResolver.Logic", "LightResolverLogic\LightResolver.Logic.csproj", "{75EB8BD4-964E-4749-A89E-D2277F9823AB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
